@@ -1,0 +1,6 @@
+.StarRating{
+    /*opacity: 0;*/
+}
+.StarRating :hover{
+    opacity: 100;
+}

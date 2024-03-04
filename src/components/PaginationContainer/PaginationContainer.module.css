@@ -1,0 +1,6 @@
+.PaginationContainer{
+    width: 80%;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+}

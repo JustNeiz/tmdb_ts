@@ -1,0 +1,7 @@
+.MovieInfo{
+display: flex;
+    flex-direction: column;
+}
+.MovieInfo .Container{
+    display: flex;
+}

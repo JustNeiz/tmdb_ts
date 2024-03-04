@@ -1,0 +1,29 @@
+.Header{
+    display: flex;
+    position: sticky;
+    top: 0;
+    bottom: 0;
+    justify-content: space-between;
+    align-items: flex-end;
+    height: 7vh;
+    /*padding: 2vh;*/
+    margin: 2vh;
+}
+.Header div{
+    display: flex;
+    align-items: flex-end;
+}
+.Header h2{
+    margin: 0 5vw  ;
+    cursor: pointer;
+}
+.Header .themes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Header .genres {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

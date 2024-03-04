@@ -1,0 +1,13 @@
+.MoviesList{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    margin-top: 40px;
+}
+[data-theme='dark']{
+  background-color: #1a1a1b ;
+}
+[data-theme='light']{
+  background-color: #e6e3e6 ;
+}
